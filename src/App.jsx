@@ -4,7 +4,7 @@ import Hero from './components/Navbar/Hero';
 import HeroImg from "./assets/hero.jpg";
 import Explore from './components/Explore/Explore';
 import Journal from './components/Journal/Journal';
-import Footer from './components/Footer/Footer';
+import Footer from './components/Footer/footer';
 
 // Inline style for the hero section with adjusted height
 const bgImage = {
@@ -25,7 +25,7 @@ const App = () => {
       </div>
       <Explore />
       <Journal />
-      <Footer />
+     <Footer/>
     </div>
   );
 }

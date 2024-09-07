@@ -7,7 +7,7 @@ const bgImg = {
   backgroundRepeat: "no-repeat",
   backgroundPosition: "center",
   backgroundSize: "cover",
-  // position :"relative",
+  position :"relative",
 }
 const Footer = () => {
   return (
