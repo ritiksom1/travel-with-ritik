@@ -34,7 +34,7 @@ const Journal = () => {
         className ="text-center md:max-w-[650px] mx-auto space-y-4" >
            
             <p className='text-3xl'>
-                The Ritik
+                The Journal
             </p>
             <p>
             This small island of India has traces of
